@@ -16,7 +16,7 @@
 <h3 align="center">Status</h3>
   
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patsouza&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsouza&layout=compact&theme=default"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=patsouza&show_icons=true&theme=default"/>
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsouza&layout=compact&theme=default"/>
 </div>
 
