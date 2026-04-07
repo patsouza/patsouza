@@ -7,8 +7,8 @@
   <a href="https://instagram.com/patsy.code"><img src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-instagram-isolado-em-fundo-branco_469489-898.jpg" height="73"></a>
 </div>
 <br>
-<p align="left">🌍 Tenho 24 anos e moro em Buzios, no Rio de Janeiro.<br>
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
+<p align="left">🌍 Tenho 25 anos e moro em Buzios, no Rio de Janeiro.<br>
+🎓 Sou estudante de Ciência da Computação.<br>
 🎯 Meu objetivo é trabalhar na área de Desenvolvimento Front-End.<br>
 💻 Experiência com HTML, CSS e Javascript, estudando SASS e responsividade.
 </p>
